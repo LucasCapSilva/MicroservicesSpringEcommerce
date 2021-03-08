@@ -6,6 +6,9 @@
  
  http://localhost:15672/
  
+ user: admin
+ password: admin
+ 
  ![alt text](https://i.imgur.com/TSHnQ92.png)
  
 ## executar Spring 
