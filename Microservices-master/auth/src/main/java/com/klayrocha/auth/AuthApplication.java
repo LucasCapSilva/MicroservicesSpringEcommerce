@@ -45,7 +45,7 @@ public class AuthApplication {
 		}
 		
 		User admin = new User();
-		admin.setUserName("klayrocha");
+		admin.setUserName("lucas@email.com");
 		admin.setAccountNonExpired(true);
 		admin.setAccountNonLocked(true);
 		admin.setCredentialsNonExpired(true);
@@ -53,7 +53,7 @@ public class AuthApplication {
 		admin.setPassword(passwordEncoder.encode("123456"));
 		admin.setPermissions(Arrays.asList(permission));
 
-		User find = userRepository.findByUserName("klayrocha");
+		User find = userRepository.findByUserName("lucas@email.com");
 		if (find == null) {
 			userRepository.save(admin);
 		}
