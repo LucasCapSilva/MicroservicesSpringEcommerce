@@ -10,6 +10,15 @@
 
 http://localhost:8761/registry
 
+## login 
+
+http://localhost:8080/api/auth/login POST
+
+{
+    "userName":"klayrocha",
+    "password":"123456"
+}
+
 ## Cadastro produto
 
 http://localhost:8080/api/crud/produto POST
