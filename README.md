@@ -15,7 +15,11 @@
  user: admin
  password: admin
  
- ![alt text](https://i.imgur.com/TSHnQ92.png)
+ ## add filas
+ 
+ crud.produto.queue
+ 
+ ![alt text](https://i.imgur.com/quRI7V2.png)
  
 ## Criar uma nova instancia
 
