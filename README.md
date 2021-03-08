@@ -1,5 +1,10 @@
 # MicroservicesSpringEcommerce
 
+Aplicação utiliza:
+RabbitMQ
+Spring Netflix Eureka
+Spring Netflix Zull
+
 ## atenção app utiliza lombok precisa ser instalado na IDE
 
 https://projectlombok.org/download
