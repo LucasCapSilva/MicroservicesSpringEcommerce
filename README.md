@@ -1,5 +1,11 @@
 # MicroservicesSpringEcommerce
 
+## Executar os microservicos
+
+ ![alt text](https://i.imgur.com/i52vFnQ.png)
+ 
+ 
+
 ## executar rabitMQ
 
  docker-compose up -d
@@ -11,9 +17,18 @@
  
  ![alt text](https://i.imgur.com/TSHnQ92.png)
  
-## executar Spring 
+## Criar uma nova instancia
+
+ ![alt text](https://i.imgur.com/l4NlyQs.png)
+
+
+## executar Spring Eureka
 
 http://localhost:8761/registry
+
+ ![alt text](https://i.imgur.com/dCPsf1B.png)
+ 
+ 
 
 ## login 
 
@@ -48,3 +63,12 @@ http://localhost:8080/api/pagamento/venda/ POST
                 "valorTotal": 2000.0
                
 }
+
+## mostrar endPorta loadBalance
+
+http://localhost:8080/api/pagamento/venda/mostrarPorta
+
+
+ ![alt text](https://i.imgur.com/IZ0Dmvl.png)
+
+
