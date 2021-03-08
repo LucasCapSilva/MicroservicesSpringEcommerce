@@ -6,6 +6,8 @@
  
  http://localhost:15672/
  
+ ![alt text](https://i.imgur.com/TSHnQ92.png)
+ 
 ## executar Spring 
 
 http://localhost:8761/registry
