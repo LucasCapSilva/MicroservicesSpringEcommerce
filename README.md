@@ -15,7 +15,7 @@ http://localhost:8761/registry
 http://localhost:8080/api/auth/login POST
 
 {
-    "userName":"klayrocha",
+    "userName":"lucas@email.com",
     "password":"123456"
 }
 
