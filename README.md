@@ -15,6 +15,8 @@ https://projectlombok.org/download
 
 ## executar rabitMQ
 
+ ![alt text](https://i.imgur.com/Y6cRsk8.png)
+
  docker-compose up -d
  
  http://localhost:15672/
